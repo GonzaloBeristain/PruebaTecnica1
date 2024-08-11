@@ -31,7 +31,7 @@ Se han implementado pruebas utilizando Jest y React Testing Library para garanti
 - **Jest** 
 - **React Testing Library**
 
-## Ejecutar las Pruebas
+## Ejecutar Dependencias, Servidor, y Pruebas
 
 Para instalar dependencias, ejecutar el servidor y ejecutar las pruebas, usa los siguientes comandos:
 
